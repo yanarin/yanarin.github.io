@@ -14,6 +14,7 @@ I am a researcher with the Computer Vision Research Team at the National Institu
 **Work Experience**
 
 - Apr, 2024 -- present Researcher, Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology
+ 
 ----------
 
 **Education**
@@ -21,6 +22,7 @@ I am a researcher with the Computer Vision Research Team at the National Institu
 - Apr, 2021 -- Mar, 2024 Ph.D., Information Science and Technology, Hokkaido University
 - Apr, 2019 -- Mar, 2021 MS, Information Science and Technology, Hokkaido University
 - Apr, 2015 -- Mar, 2019 B.S., Department of Engineering, Hokkaido University
+
 ----------
 
 **Publications**
