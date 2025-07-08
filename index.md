@@ -13,17 +13,18 @@ I am a researcher with the Computer Vision Research Team at the National Institu
 
 **Work Experience**
 
-- **Apr, 2024 -- present** Researcher, Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology
+- Apr, 2024 -- present Researcher, Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology
 ----------
 
 **Education**
 
-- **Apr, 2021 -- Mar, 2024** Ph.D., Information Science and Technology, Hokkaido University
-- **Apr, 2019 -- Mar, 2021** MS, Information Science and Technology, Hokkaido University
-- **Apr, 2015 -- Mar, 2019** B.S., Department of Engineering, Hokkaido University
+- Apr, 2021 -- Mar, 2024 Ph.D., Information Science and Technology, Hokkaido University
+- Apr, 2019 -- Mar, 2021 MS, Information Science and Technology, Hokkaido University
+- Apr, 2015 -- Mar, 2019 B.S., Department of Engineering, Hokkaido University
 ----------
 
 **Publications**
+
 Journal Articles
 
 - AMDIS: Amplitude dissimilarity reduced reference IQA metric for neural radiance, Ren Togo, Rintaro Yanagi, Masato Kawai, Takahiro Ogawa, Miki Haseyama. IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences.
