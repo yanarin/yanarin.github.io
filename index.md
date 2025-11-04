@@ -41,10 +41,12 @@ Journal Articles
 - Query is gan: Scene retrieval with attentional text-to-image generative adversarial network, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, IEEE Access.
 
 Conference/Workshop Papers
-
+ 
+- Forgetting visual domains in vision-language models, Yuta Goto, Kodai Kawamura, Rintaro Yanagi, Hirokatsu Kataoka, Go Irie, ICCV Workshop LIMIT.
+- Synthetic text-to-image pre-training through fractals with pseudo-captions, Jumpei Nakao, Yuto Shibata, Rintaro Yanagi, Masaru Isonuma, Hirokatsu Kataoka, Junichiro Mori, Ichiro Sakata, ICCV Workshop T2FM.
 - Boosting synthetic data for VLMs via diffusion noise optimization, Ren Ohkubo, Rintaro Yanagi, Hirokatsu Kataoka, Yutaka Satoh, CVPR Workshop SynData4CV.
 - GASR: Generated artwork dataset for image super-resolution, Noritake Kodama, Go Ohtani, Yuto Matsuo, Rintaro Yanagi, Nakamasa Inoue, Yoshimitsu Aoki, Hirokatsu Kataoka, CVPR Workshop SynData4CV.
-- DQG: Database question generation for exact text-based image retrieval, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, ACM International Conference on Multimedia.
+- DQG: Database question generation for exact text-based image retrieval, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, ACM International Conference on Multimedia, Oral.
 - Zero-shot composed image retrieval considering query-target relationship leveraging masked image-text pairs, Huaying Zhang, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, IEEE International Conference on Image Processing.
 - Learning 3d point cloud registration as a single optimization problem, Rintaro Yanagi, Atsushi Hashimoto, Naoya Chiba, Yoshitaka Ushiku, Asian Conference on Computer Vision.
 - Personalized content recommender system via non-verbal interaction using face mesh and Facial Expression, Yuya Moroto, Rintaro Yanagi, Naoki Ogawa, Kyohei Kamikawa, Keigo Sakurai, Ren Togo, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama, ACM International Conference on Multimedia Demo Track.
@@ -53,9 +55,9 @@ Conference/Workshop Papers
 - Rubber material retrieval system using electron microscope images for rubber material development, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, ACM International Conference on Multimedia Demo Track.
 - Free-viewpoint sports video generation based on dynamic NeRF considering time series, Masato Kawai, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, IEEE Global Conference on Consumer Electronics.
 - Cross-modal image retrieval considering semantic relationships with object information, Huaying Zhang, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, IEEE Global Conference on Consumer Electronics.
-- Database-adaptive re-ranking for enhancing cross-modal image retrieval, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, ACM International Conference on Multimedia.
+- Database-adaptive re-ranking for enhancing cross-modal image retrieval, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, ACM International Conference on Multimedia, Oral.
 - IR Questioner: QA-based interactive retrieval system, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, ACM International Conference on Multimedia Retrieval.
-- Interactive re-ranking for cross-modal retrieval based on object-wise question answering, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, ACM International Conference on Multimedia Asia.
+- Interactive re-ranking for cross-modal retrieval based on object-wise question answering, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, ACM International Conference on Multimedia Asia, Bestpaper runner-up.
 - Image retrieval with lingual and visual paraphrasing via generative models, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, IEEE International Conference on Image Processing.
 - Image retrieval with data augmentation of sentence labels based on paraphrasing, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, IEEE International Conference on Consumer Electronics-Taiwan.
 - Voice-input multimedia information retrieval system based on Text-to-image GAN, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, IEEE Global Conference on Consumer Electronics Demo Track.
