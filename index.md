@@ -24,7 +24,11 @@ I am a researcher with the Computer Vision Research Team at the National Institu
 - Apr, 2015 -- Mar, 2019 B.S., Department of Engineering, Hokkaido University
 
 ----------
+**Professional Service**
 
+- 2026 Committee Member, Special Interest Group on Computer Vision and Image Media (SIG-CVIM), Information Processing Society of Japan
+
+----------
 **Publications**
 
 Journal Articles
@@ -72,6 +76,7 @@ Conference/Workshop Papers
 
 Preprints / Informal Publications
 
+- MoireMix: A Formula-Based Data Augmentation for Improving Image Classification Robustness, Yuto Matsuo, Yoshihiro Fukuhara, Yuki M. Asano, Rintaro Yanagi, Hirokatsu Kataoka, Akio Nakamura, CoRR / arXiv, 2026.
 - The Effects of Short Video-Sharing Services on Video Copy Detection, Rintaro Yanagi, Yamato Okamoto, Shuhei Yokoo, Shinichi Satoh, CoRR / arXiv.
 - Edge-Selective Feature Weaving for Point Cloud Matching, Rintaro Yanagi, Atsushi Hashimoto, Shusaku Sone, Naoya Chiba, Jiaxin Ma, Yoshitaka Ushiku, CoRR / arXiv.
 
@@ -106,6 +111,15 @@ Domestic Conference / Symposium / Technical Reports
 - Integrating Query-target Relationship to Zero-shot Composed Image Retrieval from Masked Image-text Pairs, Huaying Zhang, Rintaro Yanagi, Ren Togo, Takahiro Ogawa, Miki Haseyama, 第27回画像の認識・理解シンポジウム (MIRU 2024), Oral.
 - Forgetting Visual Domains in Vision-Language Models, Yuta Goto, Kodai Kawamura, Rintaro Yanagi, Hirokatsu Kataoka, Go Irie, 画像の認識・理解シンポジウム (MIRU 2025), Oral.
 - 大規模データセットの精度維持に向けた欠損画像補間手法の提案, 大久保蓮, 柳凜太郎, 片岡裕雄, 佐藤雄隆, DIA2025.
-
+- 対照学習における DDIM Inversion のデータ拡張効果の検討, 大久保蓮, 柳凜太郎, 片岡裕雄, 佐藤雄隆, 第31回画像センシングシンポジウム (SSII 2025).
+- 画像超解像のための生成画像を用いたドメイン特化型データセット構築, 児玉憲武, 大谷豪, 松尾雄斗, 柳凜太郎, 井上中順, 青木義満, 片岡裕雄, 画像の認識・理解シンポジウム (MIRU 2025).
+- Forgetting Visual Domains in Vision-Language Models, Yuta Goto, Kodai Kawamura, Rintaro Yanagi, Hirokatsu Kataoka, Go Irie, 画像の認識・理解シンポジウム (MIRU 2025), Oral.
+- 数式駆動生成画像を用いたデータ拡張による画像識別のロバスト性向上, 松尾雄斗, 金子知紘, 福原吉博, 柳凜太郎, 片岡裕雄, 中村明生, 画像の認識・理解シンポジウム (MIRU 2025).
+- 画像超解像モデルの学習用データセットにおける冗長パッチ除去手法の提案, 髙田舞花, 松尾雄斗, 金子知紘, 柳凜太郎, 片岡裕雄, 中村明生, ビジョン技術の実利用ワークショップ (ViEW 2025).
+- 視覚言語モデルの設計原理と基盤モデルとしての発展, 柳凜太郎, 2026年電子情報通信学会総合大会 依頼シンポジウムセッション「パターン認識・メディア理解（PRMU）のための基盤モデルと学習」, 2026.
+- 領域別多様性報酬による画像生成モデルの事後学習に関する検討, 大久保蓮, 柴田優斗, 柳凜太郎, 片岡裕雄, 佐藤雄隆, 第29回画像の認識・理解シンポジウム (MIRU 2026).
+- 未校正の多視点カメラからの三次元手指形状推定, 原涼成, 波多野雅, 柳凜太郎, 橋本敦史, 八木拓真, 五十川麻理子, 第29回画像の認識・理解シンポジウム (MIRU 2026).
+- 数式生成点群データセットの構築および事前学習効果の検証, 金子知紘, 大塚大地, 山田亮佑, 鳥見晃平, 柳凜太郎, 片岡裕雄, 中村明生, 第29回画像の認識・理解シンポジウム (MIRU 2026).
+- 超解像データセットのための意味特徴空間に基づく冗長パッチ除去手法に関する検討, 髙田舞花, 金子知紘, 大谷豪, 柳凜太郎, 片岡裕雄, 中村明生, 第29回画像の認識・理解シンポジウム (MIRU 2026).
   
 
